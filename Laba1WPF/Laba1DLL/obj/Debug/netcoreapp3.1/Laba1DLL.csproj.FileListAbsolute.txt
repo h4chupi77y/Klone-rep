@@ -1,0 +1,17 @@
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.deps.json
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.dll
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.pdb
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.AssemblyInfoInputs.cache
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.AssemblyInfo.cs
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.dll
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.pdb
+E:\projects\cpp\vs\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.deps.json
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.dll
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\bin\Debug\netcoreapp3.1\Laba1DLL.pdb
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.AssemblyInfo.cs
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.dll
+C:\Users\ПК\source\repos\Klone\calculator\Laba1WPF\Laba1DLL\obj\Debug\netcoreapp3.1\Laba1DLL.pdb
